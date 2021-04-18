@@ -1,0 +1,290 @@
+{
+  "products": [
+    {
+      "id": 89308933,
+      "name": "Furadeira de Impacto 1/2\" 1010W Hp2070 220V Makita",
+      "picture": "http://url-da-image",
+      "price": {
+        "to": {
+          "integers": 965,
+          "decimals": 90
+        },
+        "from": null
+      },
+      "unit": "cada",
+      "installments": {
+        "amount": 8,
+        "price": {
+          "integers": 120,
+          "decimals": 74
+        }
+      },
+      "tag": {
+        "label": "Exclusivo on-line"
+      },
+      "offer": {
+        "label": "Oferta",
+        "type": "offer",
+        "value": 11
+      },
+      "url": "http://link-para-produto"
+    },
+    {
+      "id": 89308934,
+      "name": "Furadeira de Impacto 1/2\" 1010W Hp2070 220V Makita",
+      "picture": "http://url-da-image",
+      "price": {
+        "to": {
+          "integers": 965,
+          "decimals": 90
+        },
+        "from": {
+          "integers": 299,
+          "decimals": 99
+        }
+      },
+      "unit": "cada",
+      "installments": {
+        "amount": 8,
+        "price": {
+          "integers": 120,
+          "decimals": 74
+        }
+      },
+      "tag": {
+        "label": "Exclusivo on-line"
+      },
+      "offer": {
+        "label": "Oferta",
+        "type": "offer",
+        "value": 11
+      },
+      "url": "http://link-para-produto"
+    }
+    ,
+    {
+      "id": 89308935,
+      "name": "Furadeira de Impacto 1/2\" 1010W Hp2070 220V Makita",
+      "picture": "http://url-da-image",
+      "price": {
+        "to": {
+          "integers": 965,
+          "decimals": 90
+        },
+        "from": {
+          "integers": 299,
+          "decimals": 99
+        }
+      },
+      "unit": "cada",
+      "installments": {
+        "amount": 8,
+        "price": {
+          "integers": 120,
+          "decimals": 74
+        }
+      },
+      "tag": {
+        "label": "Exclusivo on-line"
+      },
+      "offer": {
+        "label": "Oferta",
+        "type": "offer",
+        "value": 11
+      },
+      "url": "http://link-para-produto"
+    },
+    {
+      "id": 89308936,
+      "name": "Furadeira de Impacto 1/2\" 1010W Hp2070 220V Makita",
+      "picture": "http://url-da-image",
+      "price": {
+        "to": {
+          "integers": 965,
+          "decimals": 90
+        },
+        "from": {
+          "integers": 299,
+          "decimals": 99
+        }
+      },
+      "unit": "cada",
+      "installments": {
+        "amount": 8,
+        "price": {
+          "integers": 120,
+          "decimals": 74
+        }
+      },
+      "tag": {
+        "label": "Exclusivo on-line"
+      },
+      "offer": {
+        "label": "Oferta",
+        "type": "offer",
+        "value": 11
+      },
+      "url": "http://link-para-produto"
+    },
+    {
+      "id": 89308938,
+      "name": "Furadeira de Impacto 1/2\" 1010W Hp2070 220V Makita",
+      "picture": "http://url-da-image",
+      "price": {
+        "to": {
+          "integers": 965,
+          "decimals": 90
+        },
+        "from": {
+          "integers": 299,
+          "decimals": 99
+        }
+      },
+      "unit": "cada",
+      "installments": {
+        "amount": 8,
+        "price": {
+          "integers": 120,
+          "decimals": 74
+        }
+      },
+      "tag": {
+        "label": "Exclusivo on-line"
+      },
+      "offer": {
+        "label": "Oferta",
+        "type": "offer",
+        "value": 11
+      },
+      "url": "http://link-para-produto"
+    },
+    {
+      "id": 89302934,
+      "name": "Furadeira de Impacto 1/2\" 1010W Hp2070 220V Makita",
+      "picture": "http://url-da-image",
+      "price": {
+        "to": {
+          "integers": 965,
+          "decimals": 90
+        },
+        "from": {
+          "integers": 299,
+          "decimals": 99
+        }
+      },
+      "unit": "cada",
+      "installments": {
+        "amount": 8,
+        "price": {
+          "integers": 120,
+          "decimals": 74
+        }
+      },
+      "tag": {
+        "label": "Exclusivo on-line"
+      },
+      "offer": {
+        "label": "Oferta",
+        "type": "offer",
+        "value": 11
+      },
+      "url": "http://link-para-produto"
+    },
+    {
+      "id": 893018934,
+      "name": "Furadeira de Impacto 1/2\" 1010W Hp2070 220V Makita",
+      "picture": "http://url-da-image",
+      "price": {
+        "to": {
+          "integers": 965,
+          "decimals": 90
+        },
+        "from": {
+          "integers": 299,
+          "decimals": 99
+        }
+      },
+      "unit": "cada",
+      "installments": {
+        "amount": 8,
+        "price": {
+          "integers": 120,
+          "decimals": 74
+        }
+      },
+      "tag": {
+        "label": "Exclusivo on-line"
+      },
+      "offer": {
+        "label": "Oferta",
+        "type": "offer",
+        "value": 11
+      },
+      "url": "http://link-para-produto"
+    },
+    {
+      "id": 89338934,
+      "name": "Furadeira de Impacto 1/2\" 1010W Hp2070 220V Makita",
+      "picture": "http://url-da-image",
+      "price": {
+        "to": {
+          "integers": 965,
+          "decimals": 90
+        },
+        "from": {
+          "integers": 299,
+          "decimals": 99
+        }
+      },
+      "unit": "cada",
+      "installments": {
+        "amount": 8,
+        "price": {
+          "integers": 120,
+          "decimals": 74
+        }
+      },
+      "tag": {
+        "label": "Exclusivo on-line"
+      },
+      "offer": {
+        "label": "Oferta",
+        "type": "offer",
+        "value": 11
+      },
+      "url": "http://link-para-produto"
+    },
+    {
+      "id": 89312934,
+      "name": "Furadeira de Impacto 1/2\" 1010W Hp2070 220V Makita",
+      "picture": "http://url-da-image",
+      "price": {
+        "to": {
+          "integers": 965,
+          "decimals": 90
+        },
+        "from": {
+          "integers": 299,
+          "decimals": 99
+        }
+      },
+      "unit": "cada",
+      "installments": {
+        "amount": 8,
+        "price": {
+          "integers": 120,
+          "decimals": 74
+        }
+      },
+      "tag": {
+        "label": "Exclusivo on-line"
+      },
+      "offer": {
+        "label": "Oferta",
+        "type": "offer",
+        "value": 11
+      },
+      "url": "http://link-para-produto"
+    }
+  ]
+}
